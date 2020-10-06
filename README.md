@@ -1,2 +1,2 @@
-# url-shortener
-URL Shortening Service
+# URL Shortener
+URL Shortening Service developed in Django. 
